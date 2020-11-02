@@ -1,2 +1,7 @@
-target
+target 
 Cargo.lock
+.metadata
+/bin/
+.settings
+.classpath
+.project
